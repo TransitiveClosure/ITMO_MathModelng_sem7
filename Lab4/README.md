@@ -1,4 +1,4 @@
-## [Colab]("https://colab.research.google.com/drive/1bD4wAwGPXD8daktUkFu5CrneSwCEc_Ry?usp=sharing")
+## [Colab](https://colab.research.google.com/drive/1bD4wAwGPXD8daktUkFu5CrneSwCEc_Ry?usp=sharing)
 
 # Описание задачи
 
